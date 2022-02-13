@@ -39,3 +39,16 @@ My responsibility is develop global ticket website using micro-services architec
 ## The Microservices Approach
 
 <img src="https://i.ibb.co/SxGg2NY/microservices.png" alt="microservices" border="0">
+
+**Benfits of Microservices**
+
+* Reducing dependencies of each services to each other
+* Easy to develop, maintain, upgrade technologies for individual services
+* High availability and scaling out, An application can be active even one or two services are pending
+* Team collaborate is better
+
+**Drawbacks of Microservices**
+
+* More complex and it is not suitable for easy games
+* Require high skills for development team beyond coding
+* Deployment and monitoring is challenge
