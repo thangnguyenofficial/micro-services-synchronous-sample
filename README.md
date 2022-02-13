@@ -55,6 +55,17 @@ My responsibility is develop global ticket website using micro-services architec
 
 ## Prerequisites
 
-**In order to build and run the project, it is recommended that you have the following installed.**
+**In order to build and run the project, it is recommended that you have the following installed**
 
-*.NET Core 3.1 SDK. You can test that you have it installed by entering the command dotnet --list-sdks
+* .NET Core 3.1 SDK. You can test that you have it installed by entering the command dotnet --list-sdks
+* Install EF Core Tool to migrate database
+* Visual Studio 2019 (Community Edition or Greater) or Visual Studio Code
+
+## Launch Project
+
+**Launch in a browser**
+
+* If you have followed the instructions, The client website will be running on port 5000, which you can access in the browser at https://localhost:5000.
+* The Event Catalog microservice will be running on port 5001 and you can view the API documentation at https://localhost:5001/swagger
+* The Shopping Basket microservice will be running on port 5002 and you can view the API documentation at https://localhost:5002/swagger
+
