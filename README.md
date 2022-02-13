@@ -21,4 +21,4 @@ My responsibility is develop global ticket website using micro-services architec
 
 ## Traditional Approach
 
-<a href="https://ibb.co/dKprwws"><img src="https://i.ibb.co/f0N2zzV/traditional.png" alt="traditional" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>store your photos online free</a><br />
+<img src="https://i.ibb.co/f0N2zzV/traditional.png" alt="traditional" border="0"></a><br />
