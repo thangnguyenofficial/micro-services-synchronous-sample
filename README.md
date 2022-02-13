@@ -52,3 +52,9 @@ My responsibility is develop global ticket website using micro-services architec
 * More complex and it is not suitable for easy games
 * Require high skills for development team beyond coding
 * Deployment and monitoring is challenge
+
+## Prerequisites
+
+**In order to build and run the project, it is recommended that you have the following installed.**
+
+*.NET Core 3.1 SDK. You can test that you have it installed by entering the command dotnet --list-sdks
